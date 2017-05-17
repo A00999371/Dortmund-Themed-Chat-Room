@@ -1,0 +1,44 @@
+body {
+    background-image: url("images/dort3.jpg");
+    background-size: cover;
+    repeat: no-repeat;
+    background-attachment: fixed;
+}
+#topbarT {
+    position:fixed;
+    top:0;
+    left:0;
+    width:100vw;
+    height:5vh;
+    background-color: black;
+}
+#create {
+    top:0;
+    left:0;
+}
+#room {
+    top:0;
+}
+#homeT {
+    position:fixed;
+    top:0;
+    right:0;
+}
+#lowerbarT {
+    position:fixed;
+    top:5vh;
+    left:0;
+    width:100vw;
+    height:5vh;
+    background-color: yellow;
+}
+#allRooms {
+    top:10vh;
+    width:100vw;
+    height:10vh;
+}
+.topic-image {
+    height:50px;
+    width:auto;
+    
+}

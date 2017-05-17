@@ -1,0 +1,31 @@
+body {
+    background-image: url("images/dort4.png");
+    background-size: contain;
+    repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+#topbar-R {
+    position:fixed;
+    top:0;
+    left:0;
+    width:100vw;
+    height:10vh;
+}
+#display {
+    margin: 10vh 0 0 0;
+}
+#status {
+    top:0;
+    left:0;
+}
+.room-image {
+    height:50px;
+    width:auto;
+    
+}
+.user-image {
+    height:50px;
+    width:auto;
+    
+}

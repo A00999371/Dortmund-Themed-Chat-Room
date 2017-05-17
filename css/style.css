@@ -1,0 +1,30 @@
+body {
+    background-image: url("images/dort1.jpg");
+    background-size: cover;
+}
+#topbar {
+    position:fixed;
+    top:0;
+    left:0;
+    width:100vw;
+    height:5vh;
+    background-color: black;
+}
+#create-topic {
+    position:fixed;
+    top:0;
+    left:0;
+}
+#editPage {
+    position:fixed;
+    top:0;
+    right:0;
+}
+#lowerbar {
+    position:fixed;
+    top:5vh;
+    left:0;
+    width:100vw;
+    height:5vh;
+    background-color: yellow;
+}

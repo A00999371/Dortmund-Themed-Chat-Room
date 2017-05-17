@@ -1,0 +1,45 @@
+body {
+    background-image: url("images/dort2.jpg");
+    background-size: cover;
+}
+#topbarP {
+    position:fixed;
+    top:0;
+    left:0;
+    width:100vw;
+    height:5vh;
+    background-color: black;
+}
+#lowerbarP {
+    position:fixed;
+    top:5vh;
+    left:0;
+    width:100vw;
+    height:15vh;
+    background-color: yellow;
+}
+#homeP {
+    position:fixed;
+    top:0;
+    right:0;
+}
+
+.radio {
+    color: white;
+}
+
+.name, .gender {
+    left: 1vw;
+    position: absolute;
+}
+
+.gender {
+    top: 2vw;
+}
+
+.url {
+    left: 15vw;
+    position: absolute;
+    height: 15vh;
+    width: 10vw;
+}
